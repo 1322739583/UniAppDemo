@@ -9,6 +9,9 @@
     <navigator url="/pages/media/media">
       <button>媒体</button>
     </navigator>
+    <navigator url="/pages/vibrate/vibrate">
+      <button>振动</button>
+    </navigator>
 
   </view>
 </template>
